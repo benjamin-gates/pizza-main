@@ -1,2 +1,1 @@
-# pizza-main
-First class project
+# pizza
